@@ -10,8 +10,8 @@ A safety-first PowerShell module for Windows beginners. Commands use short ASCII
 ## Quick Start
 
 ```powershell
-git clone https://github.com/cmduyeen/vwt.git
-cd vwt
+git clone https://github.com/cmduyeen/terminal-tieng-viet.git
+cd terminal-tieng-viet
 Import-Module .\vwt.psm1 -Force -DisableNameChecking
 vwt
 ```
@@ -39,10 +39,10 @@ Auto-load on PowerShell startup: `./install.ps1`. Remove auto-load: `./uninstall
 
 | Tool | Description | Repository |
 | :--- | :--- | :--- |
-| **vpy** | Vietnamese Python (`.vpy`) & `vide` editor | [cmduyeen/vpy](https://github.com/cmduyeen/vpy) |
-| **vgit** | Vietnamese Git CLI for beginners | [cmduyeen/vgit](https://github.com/cmduyeen/vgit) |
-| **vgh** | Vietnamese GitHub CLI (`gh`) | [cmduyeen/vgh](https://github.com/cmduyeen/vgh) |
-| **vwt** *(current)* | Vietnamese Windows Terminal / PowerShell commands | [cmduyeen/vwt](https://github.com/cmduyeen/vwt) |
+| **vpy** | Vietnamese Python (`.vpy`) & `vide` editor | [cmduyeen/python-tieng-viet](https://github.com/cmduyeen/python-tieng-viet) |
+| **vgit** | Vietnamese Git CLI for beginners | [cmduyeen/git-tieng-viet](https://github.com/cmduyeen/git-tieng-viet) |
+| **vgh** | Vietnamese GitHub CLI (`gh`) | [cmduyeen/github-tieng-viet](https://github.com/cmduyeen/github-tieng-viet) |
+| **vwt** *(current)* | Vietnamese Windows Terminal / PowerShell commands | [cmduyeen/terminal-tieng-viet](https://github.com/cmduyeen/terminal-tieng-viet) |
 
 ---
 

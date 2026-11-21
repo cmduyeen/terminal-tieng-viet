@@ -1,4 +1,4 @@
-﻿# vwt — Terminal tiếng Việt, lệnh ngắn
+# vwt — Terminal tiếng Việt, lệnh ngắn
 
 [Tiếng Việt](README.md) · [English](README.en.md)
 
@@ -117,10 +117,10 @@ Mã được chia thành `vwt.psm1` (lệnh nền), `commands.ps1` (lệnh bổ 
 
 | Công cụ | Mô tả | Link |
 | :--- | :--- | :--- |
-| **vpy** | Python tiếng Việt (`.vpy`) & trình soạn thảo `vide` | [cmduyeen/vpy](https://github.com/cmduyeen/vpy) |
-| **vgit** | Git tiếng Việt cho người mới học | [cmduyeen/vgit](https://github.com/cmduyeen/vgit) |
-| **vgh** | GitHub CLI (`gh`) tiếng Việt | [cmduyeen/vgh](https://github.com/cmduyeen/vgh) |
-| **vwt** *(đang xem)* | Windows Terminal / PowerShell tiếng Việt | [cmduyeen/vwt](https://github.com/cmduyeen/vwt) |
+| **vpy** | Python tiếng Việt (`.vpy`) & trình soạn thảo `vide` | [cmduyeen/python-tieng-viet](https://github.com/cmduyeen/python-tieng-viet) |
+| **vgit** | Git tiếng Việt cho người mới học | [cmduyeen/git-tieng-viet](https://github.com/cmduyeen/git-tieng-viet) |
+| **vgh** | GitHub CLI (`gh`) tiếng Việt | [cmduyeen/github-tieng-viet](https://github.com/cmduyeen/github-tieng-viet) |
+| **vwt** *(đang xem)* | Windows Terminal / PowerShell tiếng Việt | [cmduyeen/terminal-tieng-viet](https://github.com/cmduyeen/terminal-tieng-viet) |
 
 ---
 
