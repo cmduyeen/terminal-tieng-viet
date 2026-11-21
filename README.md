@@ -41,11 +41,14 @@ Muốn mỗi lần mở PowerShell tự có sẵn `vwt`: chạy `./install.ps1` 
 ban                       # Nhảy nhanh tới Desktop
 lietke                    # Xem danh sách file, thư mục
 taothumuc "Bai tap"       # Tạo thư mục mới
+vao "Bai tap"             # Vào thư mục vừa tạo
 tim "hoa don"             # Tìm file theo tên (không cần gõ dấu)
 timchu "duong den" *.txt  # Tìm chữ bên trong các file .txt
 nen "Bai tap"             # Nén thành Bai tap.zip
 xoa "nhap.txt"            # Chuyển vào Thùng rác (có hỏi xác nhận)
 ```
+
+> 💡 **Làm việc tiếp ngay trong thư mục vừa tạo:** Viết code Python với [`vpy` (python-tieng-viet)](https://github.com/cmduyeen/python-tieng-viet), lưu phiên bản bằng [`vgit` (git-tieng-viet)](https://github.com/cmduyeen/git-tieng-viet) (`vgit batdau`, `vgit luu`) hoặc tạo repo GitHub với [`vgh` (github-tieng-viet)](https://github.com/cmduyeen/github-tieng-viet).
 
 ---
 
